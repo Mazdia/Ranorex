@@ -33,6 +33,7 @@ namespace new
 
             Keyboard.AbortKey = System.Windows.Forms.Keys.Pause;
             int error = 0;
+            Console.WriteLine("hello user");
 
             try
             {
